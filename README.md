@@ -7,41 +7,6 @@
 <h1>Assignment 1: Sierpinski Carpet</h1>
 <hr>
 <center>
-
-<b>Due Date: March 8, 2018, Thursday</b> 
-<p>
-<b>The demonstration of the assignment will be during the class hour 
-(13:40-15:30) in EA204.</b> 
-</p><p>
-<b>Every student must attend the demonstration in the class.</b>
-</p><p>
-Grade Value: 15 %
-
-</p></center>
-
-<hr>
-<h3> Important Notice</h3>
-<b>
-<p>
-This assignment will NOT be done in groups. Every individual student 
-must do his/her homework.
-</p>
-<p>
-The assignments will be submitted to MOSS (Measure Of Software 
-Similarity), which is an
-automatic system for determining the similarity of programs. It is very 
-successful in identifying the similar codes even if you change variable 
-names, indentation, places of functions, and so on. Any similarities between 
-the programs of students in the class, as well  as any similarities to the 
-programs on the Internet, mandates disciplinary action.
-</p>
-<p>
-You will demonstrate your programs to Dr. Güdükbay in the scheduled time. 
-All the students must be physically available in the demonstrations. Demonstrations
-are a kind of exam. You will be asked questions to understand your contribution to
-the assignments in the demos.
-</p>
-
 <hr>
 <a name="requirements" <="" a="">
 <h3>Requirements</h3>
