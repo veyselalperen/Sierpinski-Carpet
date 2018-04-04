@@ -1,7 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3O//DTD W3 HTML 2.0//EN">
 <!-- saved from url=(0070)http://cs.bilkent.edu.tr/~aytek.aman/cs465/assignments/asst1_2018.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
- <title>CS-465 Assignment 1</title>
 </head>
 <body bgcolor="#FFFFFF" text="#000000" link="#0000FF" alink="#FF0000" vlink="#AA00AA">
 
@@ -37,27 +36,11 @@ the programs of students in the class, as well  as any similarities to the
 programs on the Internet, mandates disciplinary action.
 </p>
 <p>
-You will demonstrate your programs to Dr. Güdükbay in the scheduled time. 
+You will demonstrate your programs to Dr. GÃ¼dÃ¼kbay in the scheduled time. 
 All the students must be physically available in the demonstrations. Demonstrations
 are a kind of exam. You will be asked questions to understand your contribution to
 the assignments in the demos.
 </p>
-
-<p>
-If you need any assistance, you must request it from the TA. email: 
-aytek.aman@cs
-</p>
-
-<p>
-You must also submit your source codes (including online documentation
-(comments and a README.txt file explaining how it is compiled and run) to
-the TA. You should email (with the Subject CS465 Assignment #1) to Aytek
-Aman (aytek.aman@cs) a single zip file named as
-LastName_Name_CS465_Asst1.zip, containing two directories:
-Source, Executable, and a README.txt file describing how to compile
-and run your assignment.
-</p>
-</b>
 
 <hr>
 <a name="requirements" <="" a="">
