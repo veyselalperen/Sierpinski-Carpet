@@ -1,0 +1,1 @@
+{ "count":"2", "size":1.8, "locx":-0.5, "locy":0.5, "polygon":true, "color1":2, "color2":8}
